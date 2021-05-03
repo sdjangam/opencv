@@ -12,7 +12,7 @@
 
 ### Contributing
 
-Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.
+Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before the starting work on a pull request.
 
 #### Summary of the guidelines:
 
